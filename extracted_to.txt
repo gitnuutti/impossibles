@@ -1,0 +1,5 @@
+ 
+Planmeca_Romexis_ipath=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis
+Planmeca_Romexis_OrthoSimulator_ipath=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis_OrthoSimulator
+Planmeca_Romexis_SmartLite_ipath=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis_SmartLite
+Planmeca_Romexis_Smart_ipath=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis_Smart

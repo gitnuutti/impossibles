@@ -1,0 +1,21 @@
+# template 30102025-v1 nsi 
+
+# fixed top digits of the current release for each app
+filter1=Planmeca_Romexis_6.5.2.
+filter2=Planmeca_Romexis_SmartLite_6.5.2.
+filter3=Planmeca_Romexis_Smart_6.4.6.231
+filter4=Planmeca_Romexis_OrthoSimulator_6.5.2.74.
+
+# UNC path to source folder of installer packages in M drive 
+dl_source_path=\\pmgroup.local\Data\Tuotekehitys\SW\Applics\Romexis\Asennus
+
+installers_download_to=C:\Users\Public\Desktop\romexis installers\downloaded
+installers_extract_to=C:\Users\Public\Desktop\romexis installers\extracted
+Romexis_extract_to=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis\Romexis
+SmartLite_extract_to=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis_SmartLite
+Smart_extract_to=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis_Smart
+OrthoSimulator_extract_to=C:\Users\Public\Desktop\romexis installers\extracted\Planmeca_Romexis_OrthoSimulator
+
+# other
+sqlupdater=..\resources\sqlupdater
+Record_ISS=DPEND\Record_ISS

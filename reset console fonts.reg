@@ -1,0 +1,5 @@
+[-HKEY_CURRENT_USER\Console]
+
+[HKEY_CURRENT_USER\Console]
+"ScreenColors"=dword:00000007
+"PopupColors"=dword:000000f5

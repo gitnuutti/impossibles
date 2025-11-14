@@ -1,0 +1,7 @@
+# Apps to show -installer versions controlpanel
+Romexis
+Romexis Cephalometric Analysis module
+PlanCAD
+Romexis Ortho Simulator
+Romexis Smart
+Romexis Smart Lite

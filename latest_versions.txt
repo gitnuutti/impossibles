@@ -1,0 +1,4 @@
+Planmeca_Romexis_6.5.2.163.183_Win.zip|5693715803
+Planmeca_Romexis_SmartLite_6.5.2.94.150_Win.zip|3480528588
+Planmeca_Romexis_Smart_6.4.6.231.95_Win_signed.zip|2598403195
+Planmeca_Romexis_OrthoSimulator_6.5.2.74.134_Win.zip|504351393

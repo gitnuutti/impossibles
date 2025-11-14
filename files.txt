@@ -1,0 +1,14 @@
+# Romexis applications
+Romexis Client jar=C:\Program Files\Planmeca\Romexis\client\Romexis.jar
+Romexis Server jar=C:\Program Files\Planmeca\Romexis\server\RomexisServer.jar
+PMBRIDGE DLL=C:\Program Files\Planmeca\Romexis\pmbridge\Program\PmBridge_64.dll
+PlanmVDDSView=C:\Program Files\Planmeca\Planmeca VDDS Interface\PlanmVDDSView.exe
+#
+# Java in Romexis tools
+Romexis Java=C:\Program Files\Planmeca\Romexis\tools\jre_x64\bin\java.exe
+#
+# Other binaries, eg: 
+Plan CAD=C:\Program Files\PlanCAD\bin\Windows_App\PlanCAD.exe
+Romexis Smart (main.exe)=C:\Program Files\Planmeca\Romexis\client\RomexisSmart\main.dist\main.exe
+Cephalometric Analysis=C:\Program Files\Planmeca\Romexis\client\cephmodule\AxCeph.exe
+MS SQL Server 64=C:\Program Files\Microsoft SQL Server\160\Shared\SqlWtsn.exe
